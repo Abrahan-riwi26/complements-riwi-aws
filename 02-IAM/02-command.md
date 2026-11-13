@@ -151,7 +151,7 @@ Políticas que usamos en el curso:
 
 ## 8. Roles y perfiles de instancia
 
-Tienen su propia carpeta: [`03-ROLES`](../03-ROLES/02-command.md).
+Tienen su propia carpeta: [`04-ROLES`](../04-ROLES/02-command.md).
 
 ## 9. Grupos
 
